@@ -1,0 +1,6 @@
+{
+  "name": "¿Quién Quiere Ser Millonario? — Edición Académica UG",
+  "description": "Juego interactivo de preguntas y respuestas estilo ¿Quién Quiere Ser Millonario? para el Bloque de Conocimiento de Ciencia, Tecnología e Ingeniería (Matemáticas, Física y Lenguaje) con temporizador dinámico, efectos de sonido y base de datos personalizable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
